@@ -1,3 +1,4 @@
+2 Different quests one is delivery that is the six sequential quests; this is where the item is given to the player and the other is collection_quests_1600_1604; this is where you have go out into the world and find the item.
 Easy drag and drop with the correct folder strucuture.
 Full Guide
 https://johnballz17.github.io/newstartrp/expansion_quest_guide.html
