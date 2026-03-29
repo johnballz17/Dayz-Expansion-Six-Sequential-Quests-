@@ -11,7 +11,7 @@ The collections part of the objective needs to be filled with the hand in item
 "Collections": [
     {
         "Amount": 1,
-        "ClassName": "NomNom_Device_Boombox",
+        "ClassName": "Put Item Here",
         "QuantityPercent": -1,
         "MinQuantityPercent": -1
     }
