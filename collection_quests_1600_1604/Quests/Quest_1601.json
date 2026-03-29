@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1601,
+    "Type": 1,
+    "Title": "Secure Container Beta",
+    "Descriptions": [
+        "Lewis wants to see if you can handle a basic supply run.",
+        "Bring 1x NomNom_Comic_Amazing_Fantasy1962 to Kaito to unlock the Beta secure container.",
+        "Kaito approves the handoff. Your next upgrade is ready when you are."
+    ],
+    "ObjectiveText": "Turn in 1x WateNomNom_Comic_Amazing_Fantasy1962 to Kaito for A6_SecureContainer_Beta.",
+    "FollowUpQuest": 1602,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "A6_SecureContainer_Beta",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        10111
+    ],
+    "QuestTurnInIDs": [
+        10110
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1601,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 1,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        1600
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

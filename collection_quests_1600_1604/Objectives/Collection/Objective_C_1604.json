@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1604,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Find 1x NomNom_Comic_Detective_Comics1939 and bring it to Lewis",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "NomNom_Comic_Detective_Comics1939",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 20,
+    "MarkerName": "Lewis"
+}

@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10110,
+    "ClassName": "ExpansionQuestNPCAIKaito",
+    "Position": [
+        7053.812988,
+        294.599884,
+        7670.886719
+    ],
+    "Orientation": [
+        -144.0,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "Kaito",
+    "DefaultNPCText": "You want better secure containers? Earn them.",
+    "NPCLoadoutFile": "NBCLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCType": 2,
+    "QuestIDs": [
+        1600,
+        1601,
+        1602,
+        1603,
+        1604
+    ],
+    "Active": 1
+}

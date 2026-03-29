@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10111,
+    "ClassName": "ExpansionQuestNPCAILewis",
+    "Position": [
+        4786.194336,
+        338.830994,
+        10639.679688
+    ],
+    "Orientation": [
+        125.999992,
+        0.0,
+        -0.0
+    ],
+    "NPCName": "Lewis",
+    "DefaultNPCText": "Bring the requested supplies and I'll approve the next upgrade.",
+    "NPCLoadoutFile": "NBCLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCType": 2,
+    "QuestIDs": [
+        1600,
+        1601,
+        1602,
+        1603,
+        1604
+    ],
+    "Active": 1
+}
