@@ -18,6 +18,11 @@ The collections part of the objective needs to be filled with the hand in item
     }
 ],
 
+ADDED: Super Questline System (150+ Quests)
+
+Includes 10+ unique questlines, each consisting of 12 sequential collection-based quests.
+Players must explore the world, locate required items, and deliver them to designated NPCs to progress.
+
 
 Folder Structure for Personal Storage
 
