@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1702,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver NomNom_Device_GB to Guo",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 20,
+    "MarkerName": "Guo"
+}

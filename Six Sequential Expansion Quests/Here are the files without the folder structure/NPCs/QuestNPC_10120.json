@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10120,
+    "ClassName": "ExpansionQuestNPCAIFrancis",
+    "Position": [
+        1362.716431,
+        21.998198,
+        640.959595
+    ],
+    "Orientation": [
+        70.336502,
+        0.000108,
+        2.2e-05
+    ],
+    "NPCName": "Francis",
+    "DefaultNPCText": "No one earns high-level access without proving themselves.",
+    "NPCLoadoutFile": "NBCLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCType": 2,
+    "QuestIDs": [
+        1700,
+        1701,
+        1702,
+        1703,
+        1704,
+        1705
+    ],
+    "Active": 1
+}

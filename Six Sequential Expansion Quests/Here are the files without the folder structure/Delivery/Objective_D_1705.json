@@ -1,0 +1,13 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1705,
+    "ObjectiveType": 5,
+    "ObjectiveText": "Deliver 1x NomNom_Device_Ipod to Francis",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "MaxDistance": 20,
+    "MarkerName": "Francis"
+}

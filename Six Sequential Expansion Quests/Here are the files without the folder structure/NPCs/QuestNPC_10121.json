@@ -1,0 +1,32 @@
+{
+    "ConfigVersion": 6,
+    "ID": 10121,
+    "ClassName": "ExpansionQuestNPCAIGuo",
+    "Position": [
+        1426.719604,
+        22.039988,
+        631.752686
+    ],
+    "Orientation": [
+        -107.533669,
+        1.9e-05,
+        1.1e-05
+    ],
+    "NPCName": "Guo",
+    "DefaultNPCText": "Bring the requested goods and I will authorize the next card.",
+    "NPCLoadoutFile": "NBCLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCType": 2,
+    "QuestIDs": [
+        1700,
+        1701,
+        1702,
+        1703,
+        1704,
+        1705
+    ],
+    "Active": 1
+}

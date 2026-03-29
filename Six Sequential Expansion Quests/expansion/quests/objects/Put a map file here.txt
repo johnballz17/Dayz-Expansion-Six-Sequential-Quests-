@@ -1,0 +1,7 @@
+/mpmissions/dayzOffline.chernarusplus/expansion/quests/objects
+1. Load Dayz Editor
+2. Place a ExpansionQuestNPCAI down.
+3. save .map file
+4. put in this locations
+/mpmissions/dayzOffline.chernarusplus/expansion/quests/objects
+5. create new folders if necessary
